@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843016370481",
+    "project_id": "happy-task-a8cc6",
+    "storage_bucket": "happy-task-a8cc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843016370481:android:fae6c3f40067bbcef89810",
+        "android_client_info": {
+          "package_name": "com.ht.happytask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASzajI5bzsAanR5cdc4Ab7dQSjVf4LmAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
